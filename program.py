@@ -1,2 +1,2 @@
-print('Я домашка по Paython')
+print('Я первая домашка на Python')
 
